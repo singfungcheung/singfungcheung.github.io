@@ -1,0 +1,82 @@
+#body
+{
+    background-color: antiquewhite;
+}
+
+#my_name
+{
+    font-size: 500%;
+    text-align: center;
+    padding-top: 2%;
+}
+
+#my_image
+{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 25%;
+    width: 15%;
+}
+
+#click
+{
+    margin-top: 45px;
+    text-align: center;
+    font-size: 50px;
+}
+
+.middle_img
+{
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+.nav
+{
+    border: 1px solid #ccc;
+    border-width: 1px 0;
+    list-style-type: none;
+    margin: 0;
+    text-align: center;
+    display: flex;
+    justify-content: space-evenly;
+    font-size: 200%
+}
+
+.nav li
+{
+    display: inline-block;
+}
+
+.nav a
+{
+    display: inline-block;
+    padding: 10px;
+    color: black;
+}
+
+.me
+{
+    margin-left: 14%;
+    margin-top: 3%;
+    margin-right: 14%;
+}
+
+.me p
+{
+    font-size: 24px;
+}
+
+li
+{
+    border-style: solid;
+    border-width: medium;
+    border-radius: 20px;
+    background-color: antiquewhite;
+}
+
+table tr td p
+{
+    text-align: center;
+}
